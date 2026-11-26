@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Islamic Community</title>
+
+<style>
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: linear-gradient(160deg,#001d16,#064b35,#001a13);
+  color: white;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  width: 90%;
+  max-width: 400px;
+  padding: 35px 22px;
+  border: 1px solid #c9a64b;
+  border-radius: 22px;
+  background: rgba(0,0,0,0.28);
+  box-shadow: 0 0 30px rgba(201,166,75,.2);
+}
+
+.allah {
+  font-size: 85px;
+  color: #f4d477;
+  margin-bottom: 20px;
+  text-shadow: 0 0 20px #c9a64b;
+}
+
+h1 {
+  color: #f4d477;
+  font-size: 27px;
+  margin-bottom: 15px;
+}
+
+p {
+  color: #e5e5e5;
+  line-height: 1.7;
+  margin-bottom: 25px;
+}
+
+.join {
+  display: block;
+  background: linear-gradient(90deg,#c49b37,#f4d477);
+  color: #00251a;
+  text-decoration: none;
+  padding: 16px;
+  border-radius: 12px;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.join:hover {
+  transform: scale(1.03);
+}
+
+.footer {
+  margin-top: 25px;
+  font-size: 12px;
+  color: #c9c9c9;
+}
+</style>
+</head>
+
+<body>
+
+<div class="card">
+
+<div class="allah">الله</div>
+
+<h1>Welcome To Our Community</h1>
+
+<p>
+Assalamu Alaikum ❤️<br>
+Join our Telegram community and stay connected.
+</p>
+
+<a class="join"
+href="https://t.me/+MehnlSBUyS9jNjQ9"
+target="_blank">
+✈ JOIN TELEGRAM NOW
+</a>
+
+<div class="footer">
+May Allah bless you 🤍
+</div>
+
+</div>
+
+</body>
+</html>
